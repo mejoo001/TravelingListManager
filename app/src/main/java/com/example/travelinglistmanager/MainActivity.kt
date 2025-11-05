@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                     horizontalAlignment = Alignment.CenterHorizontally,
                     modifier = Modifier.fillMaxSize()
                 ){
-                    Text(text = "Welcome to travel list manager")
+                    Text(text = "Welcome to travel list manager 2025")
 
                     Row {
                         Button(
