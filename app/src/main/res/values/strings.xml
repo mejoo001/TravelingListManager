@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TravelingListManager</string>
+    <string name="title_activity_enter_items">EnterItems</string>
+</resources>
